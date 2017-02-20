@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_8463cde1415029092f02df3f2b3314b5f115ffdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7face6c756c5ef14965b0d15c89d248b6acea4a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4a5ab3a72bfe9f079e4be414ce5b0b3578d49eb">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_31ad4be6529a04846d29e67d5eed965ea6504890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_8394f73db9c5debe530b29d03edc28fd074d6536\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f652facaadc98e733280e61b8e65d6882cd2842e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cda5d85e078705add3ebb8022c8e9278b37d6a27">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_eadc37b66aa5a3119992bba23d69a96244c55e87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_b415806ba480295a08d8960a3911228eb6eb8cd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_be5bafb3b9182b55bf2725081b0449bd3b44bf52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_fc6f87dae9003dfaee38e44035beaa75b1e72862\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_55d31f963381e162eddb910a3ee1e2c55e2b00a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3c6701c6fa3e89e4316645178dad765cd6289601\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_aa4ab8499bb1d9efe322f86953027bc6fd3bffe0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_742d0a31febabc6111783ba6daf10c901116651c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f08da71dd3af9286995d7dab86531b7452957cef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_b9cb7b1fde747fe5d52bf22a1d713e1baf1f588e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_9bf7b639b9e934dd099db92602004457889a35a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\laragon\www\141510208\MyfirstprojectStepkun\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_51ab30143fbff50b8779a9626e6d377c1c44e7c7\classes.dex" />
+    </item>
+
+</items>
